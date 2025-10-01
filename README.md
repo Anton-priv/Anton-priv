@@ -1,9 +1,10 @@
 # About me
-## This is a test.
-![test_pic](https://github.com/Anton-priv/Anton-priv/assets/173769622/1da2ed13-dbfe-4c38-ab8b-5649a2bc9ee5)
+## Not much yet...
 
-😀😀😀😀😀😀
+😀
+
 <!--
+![test_pic](https://github.com/Anton-priv/Anton-priv/assets/173769622/1da2ed13-dbfe-4c38-ab8b-5649a2bc9ee5)
 **Anton-priv/Anton-priv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
